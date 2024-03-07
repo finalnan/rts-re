@@ -1,7 +1,6 @@
 {
-  "name": "rts",
+  "name": "final-rts-re",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -15,7 +14,7 @@
     "react-scripts": "5.0.1",
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4",
-    "final-blog-demo":"0.1.0"
+    "final-blog-demo": "0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,5 +39,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finalnan/rts-re.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "finalnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finalnan/rts-re/issues"
+  },
+  "homepage": "https://github.com/finalnan/rts-re#readme"
 }
